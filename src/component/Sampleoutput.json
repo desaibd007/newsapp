@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 2191,
+    "articles": [
+    {
+    "source": {
+    "id": "engadget",
+    "name": "Engadget"
+    },
+    "author": "Kris Holt",
+    "title": "Apple releases iOS 17 fix for iPhone 15 overheating issue",
+    "description": "If you're rocking an iPhone 15, it's probably a good idea to update to the latest version of iOS swiftly. Apple has released a fix for the overheating issues that have plagued its latest batch of iPhones. The company says that iOS 17.0.3 \"provides important b…",
+    "url": "https://www.engadget.com/apple-releases-ios-17-fix-for-iphone-15-overheating-issue-172616576.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/rRtYhJv8lsa_UWTSbsNWZw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/2e1e2f30-5695-11ee-9fef-d2c8213a3d3c",
+    "publishedAt": "2023-10-04T17:26:16Z",
+    "content": "If you're rocking an iPhone 15, it's probably a good idea to update to the latest version of iOS swiftly. Apple has released a fix for the overheating issues that have plagued its latest batch of iPh… [+926 chars]"
+    },
+    {
+    "source": {
+    "id": "engadget",
+    "name": "Engadget"
+    },
+    "author": "Cherlynn Low",
+    "title": "Google Pixel 2023 liveblog: Live updates on the Pixel 8 reveal",
+    "description": "With Apple, Samsung, Microsoft and Amazon already having had their fall announcement events this year, Google's hardware keynote is ostensibly the last major launch of 2023. The company has more or less told us what it's going to be unveiling today, teasing u…",
+    "url": "https://www.engadget.com/google-pixel-2023-liveblog-live-updates-on-the-pixel-8-reveal-130029820.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/fRy6DbYnj65uMeLhT2RHgw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/adbd0880-61f6-11ee-9ffa-91161bed1cfb",
+    "publishedAt": "2023-10-04T13:00:29Z",
+    "content": "With Apple, Samsung, Microsoft and Amazon already having had their fall announcement events this year, Google's hardware keynote is ostensibly the last major launch of 2023. The company has more or l… [+652 chars]"
+    },
+    {
+    "source": {
+    "id": "engadget",
+    "name": "Engadget"
+    },
+    "author": "Jeff Dunn",
+    "title": "Google Pixel 8 Pro vs. the competition: From Tensor to temperature sensor",
+    "description": "After weeks of teases and leaks, Google has formally taken the wraps off its next flagship smartphone, the Pixel 8 Pro. The handset adds a host of new camera and AI features, a brighter OLED display, an improved Tensor G3 chip, seven years of software updates…",
+    "url": "https://www.engadget.com/google-pixel-8-pro-vs-the-competition-from-tensor-to-temperature-sensor-151016002.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/1VgvNruKs6mV73c64t0msw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/52852f80-622b-11ee-af29-e5701f222e60",
+    "publishedAt": "2023-10-04T15:10:16Z",
+    "content": "After weeks of teasesandleaks, Google formally took the wraps off its next flagship smartphone, the Pixel 8 Pro. Revealed during the company's Made by Google event on Wednesday, the handset adds a ho… [+4663 chars]"
+    },
+    {
+    "source": {
+    "id": "engadget",
+    "name": "Engadget"
+    },
+    "author": "Malak Saleh",
+    "title": "The Pixel Watch 2 vs. the competition: A more robust wearable",
+    "description": "Google officially announced the Pixel 2 on Wednesday during its ‘Made by Google Event.’ Perhaps, the most exciting change is that the wearable will run on a Qualcomm Snapdragon W5 Gen 1 chip and use a Cortex M33 co-processor. That new coprocessor specifically…",
+    "url": "https://www.engadget.com/the-pixel-watch-2-versus-the-competition-a-more-robust-wearable-152810881.html",
+    "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-10/23394920-62ba-11ee-bcfb-d175f425a955",
+    "publishedAt": "2023-10-04T15:28:10Z",
+    "content": "Google officially announced the Pixel 2 on Wednesday during its Made by Google Event. Perhaps, the most exciting change is that the wearable will run on a Qualcomm Snapdragon W5 Gen 1 chip and use a … [+5614 chars]"
+    },
+    {
+    "source": {
+    "id": "engadget",
+    "name": "Engadget"
+    },
+    "author": "Will Shanklin",
+    "title": "The Google Pixel Fold’s dual-screen interpreter begins rolling out",
+    "description": "During its Made by Google event on Wednesday, Google announced that it will begin rolling out several new Pixel features, including the Pixel Fold’s dual-screen interpreter mode. The novel translation feature, which Engadget tested earlier this year, uses the…",
+    "url": "https://www.engadget.com/the-google-pixel-folds-dual-screen-interpreter-begins-rolling-out-170003067.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/s9Dlbd6dj0GN8X9gzotJAQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/f1748b60-48ed-11ee-b4ff-30a0d169ad2f",
+    "publishedAt": "2023-10-04T14:12:42Z",
+    "content": "During its Made by Google event on Wednesday, Google announced that it will begin rolling out several new Pixel features, including the Pixel Folds dual-screen interpreter mode. The novel translation… [+2499 chars]"
+    },
+    {
+    "source": {
+    "id": "engadget",
+    "name": "Engadget"
+    },
+    "author": "Mat Smith",
+    "title": "The Morning After: X sues X",
+    "description": "A Florida-based company called X Social Media has accused Elon Musk’s X Corp. of trademark and service mark infringement. With SpaceX, AI venture xAI (not to mention the brief existence of banking startup x.com), Musk really loves the letter X. At the time of…",
+    "url": "https://www.engadget.com/the-morning-after-x-sues-x-111619372.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/nvHl2d17ML5Kp7e6i8fhdw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/1fa7c7d0-6163-11ee-bfca-b0174d604bfc",
+    "publishedAt": "2023-10-04T11:16:19Z",
+    "content": "A Florida-based company called X Social Media has accused Elon Musks X Corp. of trademark and service mark infringement. With SpaceX, AI venture xAI (not to mention the brief existence of banking sta… [+3826 chars]"
+    },
+    {
+    "source": {
+    "id": "wired",
+    "name": "Wired"
+    },
+    "author": "Will Knight, Lauren Goode",
+    "title": "Google Assistant Finally Gets a Generative AI Glow-Up",
+    "description": "Google is adding AI capabilities from its chatbot Bard to the humble Google Assistant, allowing the virtual helper to make sense of images and draw on data in documents and emails.",
+    "url": "https://www.wired.com/story/google-assistant-multi-modal-upgrade-bard-generative-ai/",
+    "urlToImage": "https://media.wired.com/photos/651cc90ed7c9e68a29328982/191:100/w_1280,c_limit/Google-Assistant-Gets-AI-Chatbot-Business-669306716.jpg",
+    "publishedAt": "2023-10-04T14:30:00Z",
+    "content": "David Ferrucci, CEO of AI company Elemental Cognition and previously the lead on IBMs Watson project, says language models have removed a great deal of the complexity from building useful assistants.… [+3293 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.com"
+    },
+    "author": "Florence Ion",
+    "title": "Apple iPhone 15 Review: The iPhone That's Worth the Upgrade",
+    "description": "With Google’s next-gen flagship launching just around the corner, this felt like an apt time to visit the iPhone 15/15 Plus and see what this “first tier” model offers alongside its counterpart in the Android world. At its core, the iPhone 15/15 Plus are all …",
+    "url": "https://gizmodo.com/apple-iphone-15-review-is-worth-the-upgrade-1850887870",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/27919ec6791f10717611ac515c147795.png",
+    "publishedAt": "2023-10-04T12:30:00Z",
+    "content": "With Googles next-gen flagship launching just around the corner, this felt like an apt time to visit the iPhone 15/15 Plus and see what this first tier model offers alongside its counterpart in the A… [+8924 chars]"
+    },
+    {
+    "source": {
+    "id": "ars-technica",
+    "name": "Ars Technica"
+    },
+    "author": "Kevin Purdy",
+    "title": "Setting up home automation is rough. Google, shockingly, has good ideas for it",
+    "description": "We can all use help finding connections between gear.",
+    "url": "https://arstechnica.com/gadgets/2023/10/setting-up-home-automation-is-rough-google-shockingly-has-good-ideas-for-it/",
+    "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-466700725-760x380.jpg",
+    "publishedAt": "2023-10-04T20:01:04Z",
+    "content": "Enlarge/ Claus Scholz is offered tea and moral encouragement by his robots, MM7 and MM8, also known as \"Psychotrons,\" in 1950 Vienna. This could be us, but many home automation platforms are only pla… [+7204 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Central"
+    },
+    "author": "namerah.saud-fatmi@futurenet.com (Namerah Saud Fatmi)",
+    "title": "iPhone 15 Pro vs. iPhone 14 Pro: What's new besides USB-C?",
+    "description": "There aren't many apparent differences between the iPhone 15 Pro vs. iPhone 14 Pro. It takes a keen eye to discern what's new, which is why we're here to help.",
+    "url": "https://www.androidcentral.com/phones/iphone-15-pro-vs-iphone-14-pro",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/bTSwamnHq2Fjwmcm76bZZP-1200-80.jpg",
+    "publishedAt": "2023-10-04T12:36:04Z",
+    "content": "This may be Android Central, but that doesn't mean we can't help you choose between the iPhone 15 Pro vs. iPhone 14 Pro. Whether you're considering an upgrade or planning to switch to Apple's ecosyst… [+8594 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Central"
+    },
+    "author": "harish.jonnalagadda@futurenet.com (Harish Jonnalagadda)",
+    "title": "Pixel 8 and 8 Pro will get Android OS updates until 2030 — that's a game-changer",
+    "description": "The Pixel 8 and 8 Pro will get seven Android OS upgrades, more than any other phone to date — not even the iPhone. Here's why this is a pivotal moment not just for Google, but Android as a whole.",
+    "url": "https://www.androidcentral.com/phones/pixel-8-8-pro-seven-android-os-updates-game-changer",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/qHeHXNov2PnV4yBmMdi2b3-1200-80.jpg",
+    "publishedAt": "2023-10-04T14:30:27Z",
+    "content": "Google just introduced the Pixel 8 and 8 Pro, and they offer the usual slate of camera and hardware upgrades that we're used to on an annual basis. Google is also making a big deal out of all the new… [+4782 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Central"
+    },
+    "author": "namerah.saud-fatmi@futurenet.com (Namerah Saud Fatmi)",
+    "title": "Google Pixel 8 vs. Google Pixel 8 Pro: Should you go Pro?",
+    "description": "Read all the tantalizing details about the Google Pixel 8 vs. Google Pixel 8 Pro. We're here to help you decide if you should go Pro.",
+    "url": "https://www.androidcentral.com/phones/google-pixel-8-vs-google-pixel-8-pro",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/FkoodY8FS6SkZQ3WLGKNM-1200-80.jpg",
+    "publishedAt": "2023-10-04T18:24:26Z",
+    "content": "The ultimate smartphone showdown of the year is finally here. The battle of Google Pixel 8 vs. Google Pixel 8 Pro is gruelling. Both phones pack so many features, both on the hardware and software si… [+12566 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Joe Rossignol",
+    "title": "Tim Cook Nets $41.5 Million After Selling Over 500,000 Apple Shares",
+    "description": "Apple CEO Tim Cook netted around $41.5 million after taxes this week after selling 511,000 shares of Apple stock that he received as part of a performance-based award, according to a filing released by the U.S. Securities and Exchange Commission.\n\n\n\n\n\nThe sto…",
+    "url": "https://www.macrumors.com/2023/10/04/tim-cook-nets-41-million-from-apple-stock-sale/",
+    "urlToImage": "https://images.macrumors.com/t/DvItSAQY9jm0MqORFX6KfbdEFKI=/1600x/article-new/2023/05/Tim-Cook-MacBook-16x9.jpeg",
+    "publishedAt": "2023-10-04T14:37:07Z",
+    "content": "Apple CEO Tim Cook netted around $41.5 million after taxes this week after selling 511,000 shares of Apple stock that he received as part of a performance-based award, according to a filing released … [+888 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Juli Clover",
+    "title": "iOS 17.1 Beta: All the New Features So Far",
+    "description": "Apple is currently testing iOS 17.1, the first major update to the iOS 17 operating system that came out in September. Apple plans to release iOS 17.1 later in October, so we still have several betas to go before the software sees a public debut.\n\n\n\n\n\nIn this…",
+    "url": "https://www.macrumors.com/guide/ios-17-1-beta-features/",
+    "urlToImage": "https://images.macrumors.com/t/XV9ZtufRFxwfBkJGt2GoeQ3MoL0=/2500x/article-new/2023/10/iOS-17.1-Feature-Fall.jpg",
+    "publishedAt": "2023-10-04T19:17:35Z",
+    "content": "Apple is currently testing iOS 17.1, the first major update to the iOS 17 operating system that came out in September. Apple plans to release iOS 17.1 later in October, so we still have several betas… [+5200 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Hartley Charlton",
+    "title": "iPhone SE vs. iPhone 13 Buyer's Guide: Comparing Apple's Cheapest iPhones",
+    "description": "The third-generation iPhone SE and the iPhone 13 are now Apple's most inexpensive iPhone options, starting at $429 and $599, respectively. Apple released the ‌iPhone 13‌ in late 2021 and has bumped it down in price since then to make it more accessible as new…",
+    "url": "https://www.macrumors.com/guide/iphone-se-vs-iphone-13/",
+    "urlToImage": "https://images.macrumors.com/t/61VIrHM5n-076lD5Op5Fa7KGkl8=/2500x/article-new/2023/10/iPhone-SE-vs.-iPhone-13-Buyers-Guide-Feature-2.jpg",
+    "publishedAt": "2023-10-04T13:37:14Z",
+    "content": "The third-generation iPhone SE and the iPhone 13 are now Apple's most inexpensive iPhone options, starting at $429 and $599, respectively. Apple released the ‌iPhone 13‌ in late 2021 and has bumped i… [+5180 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Corinne Reichert",
+    "title": "iPhone 15 Pro Users: Fix Overheating Issues With Apple's Latest iOS 17 Update - CNET",
+    "description": "If you've been dealing with overheating issues on your new iPhone, especially when using apps like Uber and Instagram, download this software update now.",
+    "url": "https://www.cnet.com/tech/mobile/iphone-15-pro-users-fix-overheating-issues-with-apples-latest-ios-17-update/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/f5506f2dd8d96c02385fba506b6e348470d8c788/hub/2023/09/18/7d509dea-ab2d-4bcc-8845-e16a3f10055d/iphone15-pro-3.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2023-10-04T22:08:00Z",
+    "content": "Apple has issued a patch just weeks after the iPhone 15 Pro was released and people began complaining about overheating issues with their devices.\r\nApple issued iOS 17.0.3 on Wednesday, saying that t… [+742 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Lisa Eadicicco",
+    "title": "Fitbit Will Use AI to Connect the Dots Between Your Health Metrics - CNET",
+    "description": "Fitbit Labs is a new program that uses AI to extract deeper trends in your health and fitness data.",
+    "url": "https://www.cnet.com/tech/mobile/fitbit-will-use-ai-to-connect-the-dots-between-your-health-metrics/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/8a841e0666dba0bd35e53da9345c07de0c290ece/hub/2022/09/28/943700a7-ed69-4d41-8dd3-e18d4f38ac29/fitbit-sense-2-0325.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2023-10-04T14:30:04Z",
+    "content": "Fitbit can already tell you how far you've run, how well you're sleeping and how stressed you might be. Now, it wants to help you better understand the nuances of those readings, such as why certain … [+3463 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Lisa Eadicicco",
+    "title": "Google Pixel Watch 2 Should Solve the First One's Biggest Shortcomings - CNET",
+    "description": "With automatic workout detection, more Fitbit features and faster performance, the Pixel Watch 2 feels like what the first one should have been.",
+    "url": "https://www.cnet.com/tech/mobile/google-pixel-watch-2-should-solve-the-first-ones-biggest-shortcomings/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/1df1cf805e3e17dd41f56d6d792c07dffbfb9cc2/hub/2023/09/29/6d5d4607-5fa1-4a38-a9b9-60feb972c103/p1021156.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2023-10-04T14:30:07Z",
+    "content": "Google has announced the Pixel Watch 2 with a new heart rate sensor, more safety features and faster performance. These changes build on the original Pixel Watch and address some (but not all) of the… [+7320 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Stephen Shankland",
+    "title": "Google Gave Its Pixel 8 Cameras a Major Upgrade. Here's How They Did It - CNET",
+    "description": "In an exclusive interview, Google's Pixel camera leader shares a deep dive into the photo and video improvements in the Pixel 8 and 8 Pro.",
+    "url": "https://www.cnet.com/tech/mobile/google-gave-its-pixel-8-cameras-a-major-upgrade-heres-how-they-did-it/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/c8f476483411e2600f7f99acaaebbc5b1c3d55df/hub/2023/09/27/0545fc31-fd5c-43e1-a7eb-5e51b4df95b8/20230925-google-pixel-8-pro-01.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2023-10-04T16:00:00Z",
+    "content": "With its Pixel 8 and Pixel 8 Pro smartphones, Google is bringing its big guns to the battle for smartphone photo and video leadership. Among more than a dozen notable improvements coming to the Andro… [+13128 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Stephen Shankland",
+    "title": "Google Pixel 8 Cameras Supercharge Video to Lead Photography Upgrades - CNET",
+    "description": "Exclusive: A deep dive into Google's Pixel 8 and Pixel 8 Pro reveals more than a dozen significant improvements for photos and videos.",
+    "url": "https://www.cnet.com/tech/mobile/google-pixel-8-cameras-supercharge-video-to-lead-photography-upgrades/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/c8f476483411e2600f7f99acaaebbc5b1c3d55df/hub/2023/09/27/0545fc31-fd5c-43e1-a7eb-5e51b4df95b8/20230925-google-pixel-8-pro-01.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2023-10-04T14:30:14Z",
+    "content": "With its Pixel 8 and Pixel 8 Pro smartphones, Google is bringing its big guns to the battle for smartphone photo and video leadership. Among more than a dozen notable improvements coming to the Andro… [+12674 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Gael Fashingbauer Cooper",
+    "title": "Gmail Is Now Getting Emoji Reactions: Here's How to Use Them - CNET",
+    "description": "The option is rolling out now for Android phones, but iOS and web users will have to wait.",
+    "url": "https://www.cnet.com/tech/mobile/gmail-is-now-getting-emoji-reactions-heres-how-to-use-them/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/36163524260858dfc8eb4ea7d7a9c677a8b1a634/hub/2023/08/08/acba936b-65e5-4b1f-a275-f86499c77654/bedtime-phone-sleep-emoji.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2023-10-04T21:06:00Z",
+    "content": "A thumbs-up here, kissy lips there, a cat face here -- emoji are seemingly everywhere. The colorful little images show up in text messages, Facebook, Instagram, even Slack. And now, emoji are coming … [+2204 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Kourtnee Jackson",
+    "title": "'Haunted Mansion': Streaming Release Date and How to Watch From Anywhere - CNET",
+    "description": "After hitting theaters in the summer, the Disney movie is streaming for Halloween season.",
+    "url": "https://www.cnet.com/tech/services-and-software/haunted-mansion-streaming-release-date-and-how-to-watch-from-anywhere/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/39a711bbdd944eb1333e4784b3b7159ad4b3c1d3/hub/2023/08/21/c6864ed1-d226-4883-a7bb-8e581305ef96/ahsoka-image.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2023-10-04T11:00:16Z",
+    "content": "Walt Disney Studios\r\nIf you're looking for some family-friendly scares this month, then you'll want to crank up Disney Plus for Haunted Mansion.\r\nA fresh reboot of the 2003 adaptation that previously… [+7669 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "David Lumb",
+    "title": "Pixel 8 Pro vs. Pixel 7 Pro, 6 Pro: How Google's Premium Phone Measures Up - CNET",
+    "description": "What's new in Google's most premium phone?",
+    "url": "https://www.cnet.com/tech/mobile/pixel-8-pro-vs-pixel-7-pro-6-pro-how-googles-premium-phone-measures-up/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/c3d9afe12d31cddcd716d637077013ee48451d93/hub/2023/09/29/9c1126f5-038c-4992-bbb5-9990991464cc/p1021175.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2023-10-04T16:00:03Z",
+    "content": "The new Pixel 8 Pro is the newest top-end premium phone from Google, but what improvements does it make on previous year's premium Pixel phones? While Google has made some hardware improvements, part… [+7546 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Lisa Eadicicco",
+    "title": "Google Pixel 8 and 8 Pro Pack More AI and New Cameras, But at a Higher Price - CNET",
+    "description": "Google's new Pixels are more expensive than last year's phones, but they also come with more prominent changes.",
+    "url": "https://www.cnet.com/tech/mobile/google-pixel-8-and-pixel-8-pro-pack-more-ai-and-upgraded-cameras/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/92be2162c75342bb1cc4cb870881b2eeb625e743/hub/2023/09/29/0ca6bfc9-d8ed-4185-bdef-3a4e84296fa3/p1021180.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2023-10-04T14:30:11Z",
+    "content": "The Pixel 8 and Pixel 8 Pro have arrived, bringing more AI smarts and camera improvements to Google's flagship phones. The new phones, which launch on Oct. 12, highlight how artificial intelligence i… [+11720 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Juli Clover",
+    "title": "Apple Releases iOS 17.0.3 With Fix for iPhone 15 Pro Overheating",
+    "description": "Apple today released an iOS 17.0.3 update for the iPhone, with the software coming a week after the launch of iOS 17.0.2. Apple has also released a new version of iPadOS, 17.0.3, for iPad users.\n\n\n\n\n\nThe iOS 17.0.3 and iPadOS 17.0.3 updates can be downloaded …",
+    "url": "https://www.macrumors.com/2023/10/04/apple-releases-ios-17-0-3/",
+    "urlToImage": "https://images.macrumors.com/t/YwlOr-Sn9cOuLuCS_VryhvFkByE=/2500x/article-new/2023/10/iOS-17.0.3-Feature.jpg",
+    "publishedAt": "2023-10-04T17:03:34Z",
+    "content": "Apple today released an iOS 17.0.3 update for the iPhone, with the software coming a week after the launch of iOS 17.0.2. Apple has also released a new version of iPadOS, 17.0.3, for iPad users.\r\nThe… [+1549 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Mitchel Broussard",
+    "title": "Deals: Apple Watch Ultra 2 Drops to New Record Low Price of $774 Along With More Deals on Series 9 and SE",
+    "description": "The Apple Watch Series 9 and Apple Watch Ultra 2 have been out for a few weeks now, and Amazon is still offering launch discounts on both wearables. You can get $9 off the Apple Watch Series 9 and up to $25 off the Apple Watch Ultra 2, with no coupon code req…",
+    "url": "https://www.macrumors.com/2023/10/04/deals-apple-watch-ultra-2-record-low/",
+    "urlToImage": "https://images.macrumors.com/t/CMEgWbQr4FUF5VjcPIA8dhisrbM=/2500x/article-new/2023/09/Apple-Watch-Series-9-and-Ultra-2-Deals-2.jpg",
+    "publishedAt": "2023-10-04T13:59:35Z",
+    "content": "The Apple Watch Series 9 and Apple Watch Ultra 2 have been out for a few weeks now, and Amazon is still offering launch discounts on both wearables. You can get $9 off the Apple Watch Series 9 and up… [+1840 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Tim Hardwick",
+    "title": "PayPal and Venmo Debit and Credit Cards Gain Apple Wallet Support",
+    "description": "PayPal has announced that users can now add their PayPal and Venmo credit and debit cards to Apple Wallet, while still earning the same cashback and rewards on eligible purchases. \n\n\n\n\n\nThe new integration means users can use the cards to make contactless pay…",
+    "url": "https://www.macrumors.com/2023/10/04/paypal-venmo-debit-credit-cards-apple-wallet/",
+    "urlToImage": "https://images.macrumors.com/t/n4_1S0F2qMSXFaMqob1nYj4mF5M=/1600x/article-new/2023/10/paypal-apple-wallet.jpeg",
+    "publishedAt": "2023-10-04T10:54:40Z",
+    "content": "PayPal has announced that users can now add their PayPal and Venmo credit and debit cards to Apple Wallet, while still earning the same cashback and rewards on eligible purchases. \r\nThe new integrati… [+797 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Juli Clover",
+    "title": "Apple Releases Safari Technology Preview 180 With Bug Fixes and Performance Improvements",
+    "description": "Apple today released a new update for Safari Technology Preview, the experimental browser Apple first introduced in March 2016. Apple designed the ‌Safari Technology Preview‌ to test features that may be introduced into future release versions of Safari.\n\n\n\n\n…",
+    "url": "https://www.macrumors.com/2023/10/04/apple-releases-safari-technology-preview-180/",
+    "urlToImage": "https://images.macrumors.com/t/jHD1aGfXq86Ln_kfzTyWIF68vOo=/2368x/article-new/2021/02/Safari-Technology-Preview-Feature.jpg",
+    "publishedAt": "2023-10-04T21:44:42Z",
+    "content": "Apple today released a new update for Safari Technology Preview, the experimental browser Apple first introduced in March 2016. Apple designed the ‌Safari Technology Preview‌ to test features that ma… [+944 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Tim Hardwick",
+    "title": "New Apple Watch Double Tap Feature: What It Does and How to Get It",
+    "description": "Apple Watch Series 9 and Apple Watch Ultra 2 models are set to receive a new Double Tap gesture later this month in an upcoming software update. Here's everything Double Tap can do, and how you can get it working on your watch today. \n\n\n\n\n\nDouble Tap is a new…",
+    "url": "https://www.macrumors.com/2023/10/04/new-apple-watch-double-tap-gesture/",
+    "urlToImage": "https://images.macrumors.com/t/EBfNRm_ovWY4xJFpUJ7DLgd2zSk=/1960x/article-new/2023/09/Apple-Watch-Ultra-2-double-tap-gesture-230912.jpg",
+    "publishedAt": "2023-10-04T12:37:23Z",
+    "content": "Apple Watch Series 9 and Apple Watch Ultra 2 models are set to receive a new Double Tap gesture later this month in an upcoming software update. Here's everything Double Tap can do, and how you can g… [+3795 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Juli Clover",
+    "title": "Google Debuts New Pixel 8 and Pixel 8 Pro Smartphones, Pixel Watch 2, and Refreshed Pixel Buds Pro",
+    "description": "Google today refreshed its product lineup with new Pixel smartphones, a new Pixel watch, and updated Pixel earbuds, all of which will compete with Apple devices.\n\n\n\n\n\nThe Pixel 8 and Pixel 8 Pro are Google's latest smartphones, and the Pixel 8 Pro is the high…",
+    "url": "https://www.macrumors.com/2023/10/04/google-pixel-8-smartphones/",
+    "urlToImage": "https://images.macrumors.com/t/eJljWeI6DuE7x-bZaYBwMKYizgc=/2060x/article-new/2023/10/google-pixel-announcements.jpg",
+    "publishedAt": "2023-10-04T14:54:12Z",
+    "content": "Google today refreshed its product lineup with new Pixel smartphones, a new Pixel watch, and updated Pixel earbuds, all of which will compete with Apple devices.\r\nThe Pixel 8 and Pixel 8 Pro are Goog… [+4030 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Theron Mohamed",
+    "title": "An early investor in Warren Buffett's Berkshire Hathaway is now worth $3 billion – and joined the Forbes 400 this year",
+    "description": "An enterprising business figure paid less than $300 for his first shares of Warren Buffett's Berkshire Hathaway in 1980. They're now worth $522,000 each.",
+    "url": "https://markets.businessinsider.com/news/stocks/warren-buffett-forbes-400-stewart-horejsi-berkshire-hathaway-wealth-billionaires-2023-10",
+    "urlToImage": "https://i.insider.com/5f49246ccd2fec00296a4c9b?width=1200&format=jpeg",
+    "publishedAt": "2023-10-04T13:58:52Z",
+    "content": "Warren Buffett.Rick Wilking/Reuters\r\n<ul>\n<li>An early Berkshire Hathaway investor joined the Forbes 400 list of wealthiest Americans this year.</li>\n<li>Stewart Horejsi, who first bought into Warren… [+2565 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Sawdah Bhaimiya",
+    "title": "Job listings on LinkedIn that mention AI have more than doubled in the past 2 years and applications are flying in, the social platform says",
+    "description": "New LinkedIn research finds that the skills required for jobs are estimated to change significantly by 2030 due to developments like AI.",
+    "url": "https://www.businessinsider.com/linkedin-job-listings-ai-more-than-doubled-past-2-years-2023-10",
+    "urlToImage": "https://i.insider.com/651d316f42ecf94db4775943?width=1200&format=jpeg",
+    "publishedAt": "2023-10-04T14:24:53Z",
+    "content": "The LinkedIn logo is displayed in the Apple App Store on an iPhone.Sheldon Cooper/SOPA Images/LightRocket via Getty Images\r\n<ul><li>Job postings on LinkedIn that mention AI or generative AI have incr… [+2455 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Sarah Jackson",
+    "title": "Donald Trump and Kim Kardashian weren't rich enough to make Forbes' list of the richest Americans",
+    "description": "Donald Trump and Kim Kardashian were not rich enough to make Forbes' list of the wealthiest Americans. You need at least $2.9 billion to make the cut.",
+    "url": "https://www.businessinsider.com/donald-trump-kim-kardashian-not-in-forbes-400-richest-americans-2023-10",
+    "urlToImage": "https://i.insider.com/62e19b18e1179200195ea181?width=1200&format=jpeg",
+    "publishedAt": "2023-10-04T14:51:07Z",
+    "content": "Donald Trump and Kim Kardashian are among the more than 350 people who didn't make Forbes' yearly list of the 400 richest Americans despite being billionaires.SAUL LOEB/AFP via Getty Images\r\n<ul>\n<li… [+2783 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Hugh Langley",
+    "title": "Google supercharges its Assistant voice app with AI, hinting at how the company sees the future of chatbots",
+    "description": "The new \"Assistant with Bard\" will reboot the Google Assistant with generative-AI capabilities.",
+    "url": "https://www.businessinsider.com/google-assistant-with-bard-new-app-chatbot-ai-voice-text-2023-10",
+    "urlToImage": "https://i.insider.com/651d516f2ce014759e74557f?width=1200&format=jpeg",
+    "publishedAt": "2023-10-04T14:30:02Z",
+    "content": "Sissie Hsiao on stage at Google I/O 2023Josh Edelson/Getty\r\n<ul><li>Google is supercharging its Assistant app with Bard's capabilities.</li><li>The new \"Assistant with Bard\" is designed to merge the … [+3342 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Devon Delfino",
+    "title": "How to turn the emergency alerts on your iPhone on or off",
+    "description": "You can enable or disable emergency alerts on your iPhone through the Settings app, though there are certain alerts you can't turn off.",
+    "url": "https://www.businessinsider.com/guides/tech/emergency-alert-iphone",
+    "urlToImage": "https://i.insider.com/623e10cea2e45b0019507737?width=1200&format=jpeg",
+    "publishedAt": "2023-10-04T18:30:55Z",
+    "content": "It's possible to disable certain emergency alerts on your iPhone.MANDEL NGAN/AFP/Getty Images\r\n<ul>\n<li>Emergency alerts on your iPhone are turned on by default.</li>\n<li>You can choose to turn those… [+4017 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Harvard Business Review"
+    },
+    "author": null,
+    "title": "How Well Do You Know Your Core Customers?",
+    "description": "Target your resources at the consumers who drive the most value.",
+    "url": "https://hbr.org/podcast/2023/10/how-well-do-you-know-your-core-customers",
+    "urlToImage": "https://hbr.org/resources/images/article_assets/2023/05/wide-hbr-on-strategy.png",
+    "publishedAt": "2023-10-04T12:22:00Z",
+    "content": "HANNAH BATES: Welcome to HBR On Strategy, case studies and conversations with the world’s top business and management experts, hand-selected to help you unlock new ways of doing business. Who are you… [+15098 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Harvard Business Review"
+    },
+    "author": null,
+    "title": "The Secret to Making Difficult Decisions",
+    "description": "Ask yourself these five questions.",
+    "url": "https://hbr.org/podcast/2023/10/the-secret-to-making-difficult-decisions",
+    "urlToImage": "https://hbr.org/resources/images/article_assets/2023/05/wide-hbr-on-leadership.png",
+    "publishedAt": "2023-10-04T12:02:00Z",
+    "content": "HANNAH BATES: Welcome to HBR on Leadership, case studies and conversations with the world’s top business and management experts, hand-selected to help you unlock the best in those around you. Managem… [+19535 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ReadWrite"
+    },
+    "author": "Maxwell William",
+    "title": "Apple addresses iPhone 15 overheating with iOS 17.0.3 update",
+    "description": "Apple has released the iOS 17.0.3 update to address “an issue that may cause iPhone to run warmer than expected,” […]\nThe post Apple addresses iPhone 15 overheating with iOS 17.0.3 update appeared first on ReadWrite.",
+    "url": "https://readwrite.com/apple-addresses-iphone-15-overheating-with-ios-17-0-3-update/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2023/07/laurenz-heymann-VkfhJLz5SMQ-unsplash.jpg",
+    "publishedAt": "2023-10-04T19:58:04Z",
+    "content": "Apple has released the iOS 17.0.3 update to address “an issue that may cause iPhone to run warmer than expected,” among other bug fixes. This move is particularly significant for iPhone 15 and 15 Pro… [+1153 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ReadWrite"
+    },
+    "author": "Kira Vessiari",
+    "title": "How to Strike the Balance Between Data Security and Privacy Proactivity?",
+    "description": "Security concerns have taken center stage in recent years. Apple, known for its commitment to user privacy, has set a […]\nThe post How to Strike the Balance Between Data Security and Privacy Proactivity? appeared first on ReadWrite.",
+    "url": "https://readwrite.com/how-to-strike-the-balance-between-data-security-and-privacy-proactivity-2/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2023/10/Balance-Between-Data-Security-and-Privacy.jpg",
+    "publishedAt": "2023-10-04T18:00:21Z",
+    "content": "Security concerns have taken center stage in recent years. Apple, known for its commitment to user privacy, has set a precedent that many are following. Google, too, has been proactive, rolling out u… [+8729 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ReadWrite"
+    },
+    "author": "Deanna Ritchie",
+    "title": "Was Microsoft Bing Harmed by the Google/Apple Agreement in Search?",
+    "description": "In the landmark U.S. antitrust case against Google, Microsoft CEO Satya Nadella took the witness stand and said that Google […]\nThe post Was Microsoft Bing Harmed by the Google/Apple Agreement in Search? appeared first on ReadWrite.",
+    "url": "https://readwrite.com/was-microsoft-bing-harmed-by-the-google-apple-agreement-in-search/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2023/10/GoogleApple-Agreement.jpg",
+    "publishedAt": "2023-10-04T05:17:54Z",
+    "content": "In the landmark U.S. antitrust case against Google, Microsoft CEO Satya Nadella took the witness stand and said that Google had used unfair tactics to hobble Microsoft’s Bing search engine.\r\nThe Wall… [+1421 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hipertextual"
+    },
+    "author": "Ebenizer Pinedo",
+    "title": "Apple lanza iOS 17.0.3 para resolver el sobrecalentamiento de los iPhone 15 Pro",
+    "description": "Durante el fin de semana te contamos que el problema de sobrecalentamiento en algunos iPhone 15 Pro se debían a un fallo de iOS 17. Apple, afortunadamente, no se ha tardado mucho en resolverlo. La compañía lanzó iOS 17.0.3, que llega precisamente para solucio…",
+    "url": "http://hipertextual.com/2023/10/ios-17-0-3-soluciona-sobrecalentamiento-de-los-iphone-15-pro",
+    "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/09/DSC07015-scaled.jpg",
+    "publishedAt": "2023-10-04T17:17:41Z",
+    "content": "Durante el fin de semana te contamos que el problema de sobrecalentamiento en algunos iPhone 15 Pro se debían a un fallo de iOS 17. Apple, afortunadamente, no se ha tardado mucho en resolverlo. La co… [+534 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hipertextual"
+    },
+    "author": "Rubén Chicharro",
+    "title": "Nuevo Pixel Watch 2: Google se pone las pilas para competir contra el Apple Watch",
+    "description": "Los Google Pixel 8 y Pixel 8 Pro no llegan solos. Google acaba de anunciar el Pixel Watch 2, la segunda generación de su reloj inteligente que llega cargado de novedades internas para competir frente al Apple Watch y el resto de smartwatchs para Android, y qu…",
+    "url": "http://hipertextual.com/2023/10/nuevo-pixel-watch-2-google-se-pone-las-pilas-para-competir-contra-el-apple-watch",
+    "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/10/pixel-watch-2-001.jpg?fit=1920%2C1080&quality=50&strip=all&ssl=1",
+    "publishedAt": "2023-10-04T14:30:00Z",
+    "content": "Los Google Pixel 8 y Pixel 8 Pro no llegan solos. Google acaba de anunciar el Pixel Watch 2, la segunda generación de su reloj inteligente que llega cargado de novedades internas para competir frente… [+3610 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Boing Boing"
+    },
+    "author": "Boing Boing's Shop",
+    "title": "Elevated your audio with the Sonos Era 300 speaker — and get three months of Apple Music for free!",
+    "description": "We thank our sponsor for making this content possible; it is not written by the editorial staff nor does it necessarily reflect its views. \n\n\n\nTL;DR: The Sonos Era 300 speaker gives you a new, technologically advanced way to listen to music at home, and you g…",
+    "url": "https://boingboing.net/2023/10/03/elevated-your-audio-with-the-sonos-era-300-speaker-and-get-three-months-of-apple-music-for-free.html",
+    "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2023/09/SonosEra.jpeg?fit=1200%2C800&ssl=1",
+    "publishedAt": "2023-10-04T00:00:00Z",
+    "content": "We thank our sponsor for making this content possible; it is not written by the editorial staff nor does it necessarily reflect its views. \r\nTL;DR: The Sonos Era 300 speaker gives you a new, technolo… [+2655 chars]"
+    },
+    {
+    "source": {
+    "id": "espn",
+    "name": "ESPN"
+    },
+    "author": "Liz Loza",
+    "title": "Facts vs. Feelings: As the leaves and opinions turn",
+    "description": "Liz Loza tests some preseason feelings against four weeks of facts as she assesses Anthony Richardson, De'Von Achane, Miles Sanders, Michael Wilson, Jordan Addison, Dalton Schultz and Ty Conklin for fantasy purposes.",
+    "url": "https://www.espn.com/fantasy/football/story/_/id/38564582/fantasy-football-week-5-advice-analysis-play",
+    "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F1004%2Fr1233705_1296x729_16%2D9.jpg",
+    "publishedAt": "2023-10-04T15:23:40Z",
+    "content": "Fantasy football is a passion for many. Sometimes that passion causes fantasy managers to make emotional decisions even when the data suggest otherwise. Each week during the 2023 NFL season Liz Loza … [+13054 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Javier Marquez",
+    "title": "Apple lanza iOS 17.0.3, la actualización que promete solucionar el problema de sobrecalentamiento de los iPhone 15",
+    "description": "Sabíamos que algunos iPhone 15 estaban experimentando problemas de sobrecalentamiento. No solo por las quejas de los usuarios, sino por la propia Apple, que recientemente reconoció el inconveniente de su producto estrella presentado hace escasas semanas.\n<!--…",
+    "url": "https://www.xataka.com/moviles/apple-lanza-ios-17-0-3-la-esperada-actualizacion-que-promete-solucionar-el-problema-de-sobrecalentamiento-del-iphone-15",
+    "urlToImage": "https://i.blogs.es/4fccc8/beaae8f746f1c462b2dba78317b00c468d74f259_s2_n2_y1/840_560.jpeg",
+    "publishedAt": "2023-10-04T18:33:00Z",
+    "content": "Sabíamos que algunos iPhone 15 estaban experimentando problemas de sobrecalentamiento. No solo por las quejas de los usuarios, sino por la propia Apple, que recientemente reconoció el inconveniente d… [+1638 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Javier Lacort",
+    "title": "El sobrecalentamiento del iPhone 15 Pro es un recordatorio: el talón de Aquiles de los móviles sigue siendo el calor",
+    "description": "El problema de sobrecalentamiento de los nuevos iPhone es real. No ocurre a todo el mundo (a quien escribe estas líneas por ejemplo, ni una sola vez), pero como ocurrió con el teclado mariposa de los MacBook, que no todo el mundo lo experimente no implica que…",
+    "url": "https://www.xataka.com/moviles/sobrecalentamiento-iphone-15-pro-recordatorio-talon-aquiles-moviles-sigue-siendo-calor",
+    "urlToImage": "https://i.blogs.es/4372c6/lasse-jensen-lxzwmerboba-unsplash/840_560.jpeg",
+    "publishedAt": "2023-10-04T13:31:59Z",
+    "content": "El problema de sobrecalentamiento de los nuevos iPhone es real. No ocurre a todo el mundo (a quien escribe estas líneas por ejemplo, ni una sola vez), pero como ocurrió con el teclado mariposa de los… [+4175 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Enrique Pérez",
+    "title": "Google Pixel Watch 2: el gran paso adelante en relojes inteligentes que se pedía a Google",
+    "description": "Google da un paso adelante con su reloj inteligente. Junto a los nuevos Pixel 8 y Pixel 8 Pro, se ha presentado el Google Pixel Watch 2. Y este año viene cargado de novedades, desde la apuesta por un procesador a su altura hasta la inclusión de nuevos sensore…",
+    "url": "https://www.xataka.com/wearables/google-pixel-watch-2-caracteristicas-precio-ficha-tecnica",
+    "urlToImage": "https://i.blogs.es/312bc6/ficha-google-pixel-watch-2/840_560.jpeg",
+    "publishedAt": "2023-10-04T14:31:59Z",
+    "content": "Google da un paso adelante con su reloj inteligente. Junto a los nuevos Pixel 8 y Pixel 8 Pro, se ha presentado el Google Pixel Watch 2. Y este año viene cargado de novedades, desde la apuesta por un… [+4217 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Enrique Pérez",
+    "title": "Google va a la contraria: en una industria móvil cada vez más débil, los Pixel son la gran esperanza de Android",
+    "description": "Google confía en los Pixel. Las comparaciones con los iPhone son odiosas, pero paso a paso este móvil que casi puede considerarse de nicho está atrayendo las miradas de más gente. Con los Pixel 8 se ha dado un paso importante en esta dirección de intentar que…",
+    "url": "https://www.xataka.com/moviles/google-va-a-contraria-industria-movil-cada-vez-debil-pixel-gran-esperanza-android",
+    "urlToImage": "https://i.blogs.es/fe095e/gama-pixel/840_560.jpeg",
+    "publishedAt": "2023-10-04T16:45:59Z",
+    "content": "Google confía en los Pixel. Las comparaciones con los iPhone son odiosas, pero paso a paso este móvil que casi puede considerarse de nicho está atrayendo las miradas de más gente. Con los Pixel 8 se … [+7486 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Digital Trends"
+    },
+    "author": "Phil Nickinson",
+    "title": "Should you buy an obsolete Apple TV?",
+    "description": "This probably should go without saying, but we'll say it anyway: Do not buy obsolete hardware with unsupported software. Even if it's inexpensive.",
+    "url": "https://www.digitaltrends.com/home-theater/do-not-buy-obsolete-apple-tv/",
+    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/03/apple-tv-4k-device-02.jpg?resize=1200%2C630&p=1",
+    "publishedAt": "2023-10-04T13:15:35Z",
+    "content": "This 2022 Apple TV is not obsolete and will last for years.Phil Nickinson / Digital Trends\r\nThis probably should go without saying, but we’re going to say it anyway: We cannot recommend that you buy … [+2476 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Digital Trends"
+    },
+    "author": "Christine Romero-Chan",
+    "title": "Google Pixel 8 vs. iPhone 15: did Google finally beat Apple?",
+    "description": "Google has just dropped the brand new Google Pixel 8. How does it fare against Apple's latest iPhone 15? We found out.",
+    "url": "https://www.digitaltrends.com/mobile/google-pixel-8-vs-apple-iphone-15/",
+    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/10/google-pixel-8-vs-iphone-15.jpg?resize=1200%2C630&p=1",
+    "publishedAt": "2023-10-04T19:30:18Z",
+    "content": "Digital Trends\r\nGoogle has unveiled the Google Pixel 8 lineup at its Made by Google event in New York. Though there aren’t any drastic upgrades to the Pixel 8, Google made some smaller changes that a… [+14734 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Digital Trends"
+    },
+    "author": "Alex Blake",
+    "title": "Apple’s new M3 Macs could launch any day now, leak claims",
+    "description": "A fresh leak has claimed Apple’s new Macs outfitted with M3 chips could launch imminently, bringing better power and efficiency to the company’s computers.",
+    "url": "https://www.digitaltrends.com/computing/apple-m3-macs-could-launch-imminently/",
+    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/10/macOS-Sonoma-WWDC-2023-2.jpg?resize=1200%2C630&p=1",
+    "publishedAt": "2023-10-04T10:16:12Z",
+    "content": "We’ve heard for months that Apple’s brand-new Macs with M3 chips will be launching in the fall, but a fresh leak suggests their release could be just around the corner. If you’ve been waiting to upgr… [+2166 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Digital Trends"
+    },
+    "author": "Andy Boxall",
+    "title": "Don’t listen to Google. The Pixel Watch 2 isn’t a smartwatch at all",
+    "description": "Google may call the Pixel Watch 2 a smartwatch, but once again, it hasn't treated it as one. It's time we thought about it differently.",
+    "url": "https://www.digitaltrends.com/mobile/google-pixel-watch-2-is-more-fitness-band-than-smartwatch/",
+    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/10/pixel-watch-2-running.jpg?resize=1200%2C630&p=1",
+    "publishedAt": "2023-10-04T16:45:34Z",
+    "content": "Google\r\nI don’t think the Google Pixel Watch 2 is a smartwatch. I think it’s merely being passed off as one, as once more, Google hasn’t treated the design like a smartwatch at all.\r\nWhy? Because it … [+6096 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Digital Trends"
+    },
+    "author": "Noah McGraw",
+    "title": "This deal gets you live TV and a free Fire TV Stick Lite",
+    "description": "Sling is ending one massive deal and replacing it with another great one. Get a free streaming stick so you can stream Sling on any smart TV.",
+    "url": "https://www.digitaltrends.com/home-theater/sling-tv-free-fire-tv-stick-deal-october-2023/",
+    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2020/09/amazon-fire-tv-stick-lite-with-remote.jpeg?resize=1200%2C630&p=1",
+    "publishedAt": "2023-10-04T12:50:39Z",
+    "content": "OLED TV technology promises unparalleled depth, color, and sharpness. This makes OLED TVs a great option for the centerpiece of your home theater, particularly with how well it performs when you comp… [+932 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Digital Trends"
+    },
+    "author": "Alex Blake",
+    "title": "Common macOS Sonoma problems and how to fix them",
+    "description": "Having trouble with Apple’s macOS Sonoma operating system? We’ve got the fixes to the most common problems, helping you get your Mac back up and running again.",
+    "url": "https://www.digitaltrends.com/computing/how-to-fix-common-macos-sonoma-problems/",
+    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/10/macOS-Sonoma-WWDC-2023-3.jpg?resize=1200%2C630&p=1",
+    "publishedAt": "2023-10-04T17:05:12Z",
+    "content": "Apple’s latest operating system, macOS Sonoma, has launched, and it brings with it a bunch of great new features for your Mac. But upgrading your Apple computer could lead to problems, and while this… [+7644 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Digital Trends"
+    },
+    "author": "Michael Bizzaco",
+    "title": "Headphones not working? Common issues and how to fix them",
+    "description": "We use our headphones and earbuds every day, so they're bound to malfunction from time to time. Here are some common wearable audio issues and how to fix them.",
+    "url": "https://www.digitaltrends.com/home-theater/common-headphone-issues-and-how-to-fix-them/",
+    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/05/sony-wh-1000xm5-review-00013.jpg?resize=1200%2C630&p=1",
+    "publishedAt": "2023-10-04T16:30:56Z",
+    "content": "Our headphones and earbuds are everyday audio accessories that many of us cant live without. These days, big brands like Sony, Bose, and Apple have really got sound technology nailed down, delivering… [+10333 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Digital Trends"
+    },
+    "author": "Nadeem Sarwar",
+    "title": "Google just announced the Pixel Watch 2. Is it any good?",
+    "description": "Google has just announced its Pixel Watch 2 smartwatch. It looks very familiar, but has a lot of changes on the inside. Here's a closer look.",
+    "url": "https://www.digitaltrends.com/mobile/google-pixel-watch-2-news-specs-price-release-date/",
+    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/09/google-pixel-watch-2-official-render-2.jpg?resize=1200%2C630&p=1",
+    "publishedAt": "2023-10-04T14:30:28Z",
+    "content": "Google\r\nGoogle lifted the lid on the Google Pixel Watch 2 at a packed event that also witnessed the introduction of its Google Pixel 8 series phones. Aesthetically, barely anything has changed, which… [+4493 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Digital Trends"
+    },
+    "author": "Jennifer Allen",
+    "title": "Get an unlocked iPhone 14 Pro Max for under $900 with this deal",
+    "description": "The iPhone 14 Pro Max remains a fantastic phone for anyone who wants a larger than average phone. It's on sale now at Backmarket.",
+    "url": "https://www.digitaltrends.com/mobile/iphone-14-pro-max-deal-backmarket-october-2023/",
+    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/10/iphone-14-pro-max-review-6.jpg?resize=1200%2C630&p=1",
+    "publishedAt": "2023-10-04T12:50:17Z",
+    "content": "Joe Maring / Digital Trends\r\nBackmarket has one of the best iPhone deals at the moment with the iPhone 14 Pro Max available for $887, reduced from $1,099. The sizeable saving is in part thanks to thi… [+1932 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Digital Trends"
+    },
+    "author": "Christine Romero-Chan",
+    "title": "Do old Pixel Watch bands fit the Google Pixel Watch 2?",
+    "description": "Google's new Pixel Watch 2 is here. But can you use your old bands with it?",
+    "url": "https://www.digitaltrends.com/mobile/do-old-pixel-watch-bands-fit-google-pixel-watch-2/",
+    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/09/google-pixel-watch-2-official-render-1.jpg?resize=1200%2C630&p=1",
+    "publishedAt": "2023-10-04T20:30:42Z",
+    "content": "Google\r\nDuring its Made by Google event in New York, Google revealed the next generation of its smartwatch with the Google Pixel Watch 2. Though it looks very much like the original Google Pixel Watc… [+2572 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Substack.com"
+    },
+    "author": "Ossi Herrala",
+    "title": "Eliminating Radio Interference from Apple Charger",
+    "description": "Apple's product design teams should do a better job eliminating unwanted radio frequency emissions from their product!",
+    "url": "https://oh8hub.substack.com/p/eliminating-radio-interference-from",
+    "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F277a5457-2087-4a70-97e1-fe6e2198ce83_1280x960.jpeg",
+    "publishedAt": "2023-10-04T18:01:14Z",
+    "content": "Manufacturers are cutting corners to save costs. In todays story our shared radio waves are one of the victims of poor design choises. Sadly Apple has joined the club by skipping a crucial component … [+3607 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Archive.org"
+    },
+    "author": "akosner",
+    "title": "Sequoia Captials Puff piece on SBF just before FTX's collapse",
+    "description": "The founder of FTX lives his life by a calculus of altruistic impact. By Adam Fisher.",
+    "url": "https://web.archive.org/web/20221027181005/https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/",
+    "urlToImage": "https://web.archive.org/web/20221027181005im_/https://www.sequoiacap.com/wp-content/uploads/sites/6/2022/09/SFB-Hero.gif",
+    "publishedAt": "2023-10-04T16:35:53Z",
+    "content": "Listen to this article\r\nEvery startup has a startup story. Apple was two hackers in a Los Altos garage. Google was two grad students in a Stanford dorm room. Alameda Research was just one guy in a Be… [+32508 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gigazine.net"
+    },
+    "author": "@GIGAZINE",
+    "title": "全ての開発者が知っておくべきUnicodeについての最低限の知識",
+    "description": "2003年には「プレーンテキストなんてものは全く存在しない」と言われ、テキストの解読には文字コードの情報が必須となっていました。しかし、2023年になるまでの20年の間に絵文字などのおかげでUnicodeの利用率は98％へと到達し、再び文字コードを気にせずにすむ時代がやってきています。そんな時代において、正しくUnicodeを使うために必要な知識をエンジニアのニキータ・プロコポフさんが解説しています。続きを読む...",
+    "url": "https://gigazine.net/news/20231005-unicode/",
+    "urlToImage": "https://i.gzn.jp/img/2023/10/05/unicode/00.png",
+    "publishedAt": "2023-10-04T21:00:00Z",
+    "content": "2003202320Unicode98Unicode\r\nThe Absolute Minimum Every Software Developer Must Know About Unicode in 2023 (Still No Excuses!) @ tonsky.mehttps://tonsky.me/blog/unicode/\r\nUnicode2000\r\nUnicodeA65س1587ツ… [+882 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Johannes Schuster, Ben Schwan",
+    "title": "Pro & Contra: Sollte Apple die iPhone-Keynotes abschaffen?",
+    "description": "Jüngst hat Apple neue iPhones vorgestellt, wieder in einer aufgezeichneten Präsentation mit vielen Werbeclips. Verärgert Apple damit seine Kunden?",
+    "url": "https://www.heise.de/meinung/Pro-Contra-Sollte-Apple-die-iPhone-Keynotes-abschaffen-9317901.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/0/9/5/5/0/Pro_Contra_jes-bsc-99e7ac6e04e3da7d.jpg",
+    "publishedAt": "2023-10-04T08:00:00Z",
+    "content": "Seit einiger Zeit hält Apple seine Produktpräsentationen nicht mehr live ab, sondern produziert sie vor und lässt sie dann per Streaming in die ganze Welt ablaufen. Das gefällt nicht allen Anwendern.… [+3779 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Ben Schwan",
+    "title": "Leak in Beta: Apple könnte alten Pencil USB-C-fähig machen",
+    "description": "Während der Apple Pencil 2 nur noch induktiv zu laden ist, kommt der fürs iPad 10 gedachte Pencil 1 noch mit Lightning-Port. Das könnte sich bald ändern.",
+    "url": "https://www.heise.de/news/Leak-in-Beta-Apple-koennte-alten-Pencil-USB-C-faehig-machen-9324370.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/1/3/0/5/9/applepencil_old-4539a82d67408a35.jpg",
+    "publishedAt": "2023-10-04T10:19:00Z",
+    "content": "Apple plant offenbar eine USB-C-Version seines Apple Pencil 1 oder einen komplett neuen iPad-Stift mit der Schnittstelle. Aktuell bietet der Konzern zwei Varianten seines Pencil an: Eine für ältere/g… [+2640 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Sebastian Trepesch",
+    "title": "heise-Angebot: Mac & i 5/23: Von iPhone 15 bis macOS Sonoma – Tests und viel Praxis",
+    "description": "iPhone 15 (Pro) im Test • Tipps zu iOS 17, macOS 14, watchOS 10 • Apps ohne Abo • Mac Pro M2 Ultra im Test​ • Windows-Spiele am Mac • iPad in Schulen und mehr.",
+    "url": "https://www.heise.de/news/Mac-i-5-23-Von-iPhone-15-bis-macOS-Sonoma-Tests-und-viel-Praxis-9323365.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/1/2/4/6/9/cover-mi052023-online-dcbde8b0fed201b7.jpg",
+    "publishedAt": "2023-10-04T10:00:00Z",
+    "content": "Inhaltsverzeichnis\r\nAb Donnerstag, den 5. Oktober am Kiosk, ab Mittwoch schon vorab im heise-Shop die neue Mac &amp; i ist da! Heft 5/2023 gibt es wahlweise auf Papier, für kurze Zeit auch versandkos… [+3002 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Leo Becker",
+    "title": "Unlesbare Dokumente: macOS 14 Sonoma hat Probleme mit bestimmten PDFs",
+    "description": "Das Ausdrucken und Exportieren von PDFs führt mit macOS 14 Sonoma unter Umständen dazu, dass Schriftzeichen fehlen – und das Dokument so unlesbar ist.",
+    "url": "https://www.heise.de/news/Unlesbare-Dokumente-macOS-14-Sonoma-hat-Probleme-mit-bestimmten-PDFs-9325194.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/1/3/5/1/5/IMG_9117-62ca2b48453f086f.jpeg",
+    "publishedAt": "2023-10-04T15:21:00Z",
+    "content": "Nach Aktualisierung auf macOS 14 Sonoma kann es zu erheblichen Problemen beim Ausdrucken und Exportieren von PDF-Dateien kommen. Der Fehler lässt sich im Vorfeld gewöhnlich nicht erkennen, Apples mit… [+2011 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Benny Code",
+    "title": "heise+ | Defensives Programmieren: Robusten Code mit TypeScript erzeugen",
+    "description": "Mit defensivem Programmieren Eingabefehler, unerwartete Rückgabewerte und Unkontrollierbares zu vermeiden, bläht den Code auf. TypeScripts Sprachmittel helfen.",
+    "url": "https://www.heise.de/ratgeber/Defensives-Programmieren-Robusten-Code-mit-TypeScript-erzeugen-9320247.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/1/0/8/1/9/def_prog-198b226e024c2f01.png",
+    "publishedAt": "2023-10-04T09:00:00Z",
+    "content": "Inhaltsverzeichnis\r\nDefensives Programmieren ist eine Herangehensweise in der Softwareentwicklung, die den Schwerpunkt darauf legt, Eingabefehler und unkontrollierte Rückgabewerte zu berücksichtigen.… [+3145 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Filipe Espósito",
+    "title": "Original Apple Watch, including $17,000 gold model, no longer eligible for repairs",
+    "description": "It’s been nine years since Apple announced the very first Apple Watch to the world – although it only hit the stores in April 2015. In 2021, the first-generation Apple Watch entered Apple’s list of “vintage” products, which means that repairs have become limi…",
+    "url": "https://9to5mac.com/2023/10/03/original-apple-watch-obsolete-repairs/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/10/Original-Apple-Watch-gold.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-10-04T01:29:28Z",
+    "content": "It’s been nine years since Apple announced the very first Apple Watch to the world although it only hit the stores in April 2015. In 2021, the first-generation Apple Watch entered Apple’s list of “vi… [+1976 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Zac Hall",
+    "title": "Apple selling USB-A to USB-C cable for the first time following iPhone 15 launch",
+    "description": "iPhone 15 may be the first to charge over USB-C, but it’s hardly the first Apple product to use the port. From MacBooks and iPads to the Apple TV remote, USB-C ports exist on many devices. Still, it’s only now that the iPhone 15 has launched that Apple has ad…",
+    "url": "https://9to5mac.com/2023/10/04/iphone-15-usb-a-to-usb-c-cable/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/10/usb-a-to-usb-c-cable-apple-iphone-15.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-10-04T14:46:46Z",
+    "content": "iPhone 15 may be the first to charge over USB-C, but it’s hardly the first Apple product to use the port. From MacBooks and iPads to the Apple TV remote, USB-C ports exist on many devices. Still, it’… [+1495 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Zac Hall",
+    "title": "Apple releases second iOS 17.1, watchOS 10.1, tvOS 17.1, and macOS 14.1 betas alongside visionOS 1 beta 4 [U: Public betas]",
+    "description": "Update: Public beta versions of iOS 17.1 and company are out today.\n\n\n\n\n\n\n\nApple has released the second developer beta version of the upcoming iOS 17.1, watchOS 10.1, tvOS 17.1, and macOS 14.1 software updates. Apple has also released the fourth visionOS bet…",
+    "url": "https://9to5mac.com/2023/10/04/17-1-betas/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/08/Tim-Cook-uses-Vision-Pro-every-day.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-10-04T17:05:00Z",
+    "content": "Update: Public beta versions of iOS 17.1 and company are out today.\r\nApple has released the second developer beta version of the upcoming iOS 17.1, watchOS 10.1, tvOS 17.1, and macOS 14.1 software up… [+722 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Chance Miller",
+    "title": "Tim Cook offloads over half a million AAPL shares, pocketing $41 million",
+    "description": "Apple CEO Tim Cook has offloaded 511,000 shares of Apple stock, according to new regulatory filings. After taxes, Cook netted $41.5 million from the sale, which Reuters says is his “biggest share sale in two years.” \n\n\n\n more…",
+    "url": "https://9to5mac.com/2023/10/04/tim-cook-aapl-shares-sale/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/10/tim-cook-apple-event.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-10-04T14:54:41Z",
+    "content": "Apple CEO Tim Cook has offloaded 511,000 shares of Apple stock, according to new regulatory filings. After taxes, Cook netted $41.5 million from the sale, which Reuters says is his “biggest share sal… [+892 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Chance Miller",
+    "title": "Apple releases iOS 17.0.3 with fix for iPhone 15 overheating issues",
+    "description": "As expected, Apple has released iOS 17.0.3 for iPhone users to address overheating concerns. This comes after Apple acknowledged the overheating problems last weekend, attributing the problem to software bugs rather than issues with the iPhone 15 Pro design. …",
+    "url": "https://9to5mac.com/2023/10/04/ios-17-0-3-release-overheating-iphone/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/10/iOS-17.0.3-hero.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-10-04T17:06:13Z",
+    "content": "As expected, Apple has released iOS 17.0.3 for iPhone users to address overheating concerns. This comes after Apple acknowledged the overheating problems last weekend, attributing the problem to soft… [+1610 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Filipe Espósito",
+    "title": "Apple to announce fiscal Q4 2023 results on November 2",
+    "description": "Apple on Wednesday confirmed that it will announce its fourth quarter fiscal 2023 results on November 2. The announcement comes weeks after the company unveiled the new iPhone 15 along with Apple Watch Series 9 and Ultra 2, so there are high expectations as t…",
+    "url": "https://9to5mac.com/2023/10/04/apple-fiscal-q4-2023-results-november-2/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/05/apple-park-aerial.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-10-04T23:27:59Z",
+    "content": "Apple on Wednesday confirmed that it will announce its fourth quarter fiscal 2023 results on November 2. The announcement comes weeks after the company unveiled the new iPhone 15 along with Apple Wat… [+1340 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Michael Potuck",
+    "title": "Here’s what’s new with the redesigned World Clock in watchOS 10",
+    "description": "Seven native Apple Watch apps have been overhauled with watchOS 10, one of which is the World Clock app that’s received a beautiful new aesthetic. Follow along for what’s new with the World Clock Apple Watch app in watchOS 10.\n\n\n\n more…",
+    "url": "https://9to5mac.com/2023/10/04/new-world-clock-apple-watch-watchos-10/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/08/world-clock-apple-watch-watchos-10.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-10-04T20:15:00Z",
+    "content": "Seven native Apple Watch apps have been overhauled with watchOS 10, one of which is the World Clock app that’s received a beautiful new aesthetic. Follow along for what’s new with the World Clock App… [+2237 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Zac Hall",
+    "title": "Survey shows massive opportunity for AirPods and Apple Watch growth from iPhone buyers",
+    "description": "New data from CIRP shows just how big of an opportunity Apple Watch and AirPods have among customers buying new iPhones. \n\n\n\n more…",
+    "url": "https://9to5mac.com/2023/10/04/iphone-airpods-apple-watch-owners/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/08/apple-watch-series-8-airpods-pro-2-deals.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-10-04T15:48:04Z",
+    "content": "New data from CIRP shows just how big of an opportunity Apple Watch and AirPods have among customers buying new iPhones. \r\nThis story is supported by Mosyle, the only Apple Unified Platform. Mosyle i… [+2385 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Benjamin Mayo",
+    "title": "Apple might be interested in College Football Playoff streaming rights deal",
+    "description": "According to a new report, Apple has held early talks with the College Football Playoff tournament about a streaming deal, joining the sea of rumors relating to Apple’s interest in sports right. \n\n\n\nThe 12-team CFP tournament’s current media deal expires at t…",
+    "url": "https://9to5mac.com/2023/10/04/apple-tv-sports-right-college-football-playoff-streaming/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/10/apple-college-football-playoffs.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-10-04T22:03:55Z",
+    "content": "According to a new report, Apple has held early talks with the College Football Playoff tournament about a streaming deal, joining the sea of rumors relating to Apple’s interest in sports right. \r\nTh… [+1205 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Filipe Espósito",
+    "title": "Does iOS 17.0.3 slow down the iPhone 15 Pro to prevent overheating? Here’s what preliminary tests show",
+    "description": "Following many complaints about overheating issues affecting iPhone 15 Pro models, Apple released the iOS 17.0.3 update on Wednesday to address these issues. According to the company, the overheating was caused by software, not by hardware or design flaws. Ap…",
+    "url": "https://9to5mac.com/2023/10/04/ios-17-0-3-iphone-15-pro-overheating/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/09/iphone-15-pro-titanium-weight.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-10-04T20:35:20Z",
+    "content": "Following many complaints about overheating issues affecting iPhone 15 Pro models, Apple released the iOS 17.0.3 update on Wednesday to address these issues. According to the company, the overheating… [+3531 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Rikka Altland",
+    "title": "Apple Watch SE 2 styles start at $220, Nomad Lightning cables 50% off, more",
+    "description": "You can now score the First price cuts in months take on Apple Watch SE 2, which take $29 off. Now starting from $220, the savings are joined by these 50% markdowns on Nomad’s Kevlar USB-C Lightning cables for those of you not upgrading to iPhone 15. Then che…",
+    "url": "https://9to5mac.com/2023/10/04/apple-watch-se-2-deals-nomad-cables/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/04/apple-watch-se-2.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-10-04T15:48:50Z",
+    "content": "You can now score the First price cuts in months take on Apple Watch SE 2, which take $29 off. Now starting from $220, the savings are joined by these 50% markdowns on Nomads Kevlar USB-C Lightning c… [+4243 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Seth Kurkowski",
+    "title": "9to5Mac Daily: October 4, 2023 – iOS 17.1 beta 2, Apple Watch Double tap",
+    "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\n\n\n\nConnect with us in the off…",
+    "url": "https://9to5mac.com/2023/10/04/daily-october-4-2023/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-10-04T19:27:50Z",
+    "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apples Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overca… [+891 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Chance Miller",
+    "title": "Apple TV’s new ‘Enhance Dialogue’ feature expands to original HomePod and HomePod mini with tvOS 17.1",
+    "description": "tvOS 17 was released last month with a handful of new features and changes, including FaceTime support, a redesigned Control Center, and VPN support. One new feature that’s flown somewhat under the radar in tvOS 17, which now appears to be expanding to older …",
+    "url": "https://9to5mac.com/2023/10/04/apple-tv-enhance-dialogue-feature-tvos-homepod/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/10/enhance-dialogue-apple-tv.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-10-04T19:44:10Z",
+    "content": "tvOS 17 was released last month with a handful of new features and changes, including FaceTime support, a redesigned Control Center, and VPN support. One new feature that’s flown somewhat under the r… [+1368 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Filipe Espósito",
+    "title": "Some iPhone 15 users complain about crackling sound with built-in speakers",
+    "description": "iPhone 15 was launched less than two weeks ago and there are already some users complaining about overheating issues, but it seems that there are more users unhappy with their new iPhone for other reasons. There’s now a small group of people claiming to be ex…",
+    "url": "https://9to5mac.com/2023/10/03/iphone-15-crackling-sound-speakers/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/09/iphone-15-pink.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-10-04T03:25:19Z",
+    "content": "iPhone 15 was launched less than two weeks ago and there are already some users complaining about overheating issues, but it seems that there are more users unhappy with their new iPhone for other re… [+2428 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Chance Miller",
+    "title": "Porsche explains why it’s going all-in on CarPlay, unlike GM and others",
+    "description": "I’ve written a lot about GM’s shortsighted decision to abandon CarPlay in all of its EVs next year. On the flip side, however, Porsche has been expanding its focus on CarPlay, most recently with its My Porsche app for CarPlay adding climate controls and other…",
+    "url": "https://9to5mac.com/2023/10/04/porsche-explains-why-its-going-all-in-on-carplay/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/07/porsche-app-carplay.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-10-04T20:42:22Z",
+    "content": "I’ve written a lot about GM’s shortsighted decision to abandon CarPlay in all of its EVs next year. On the flip side, however, Porsche has been expanding its focus on CarPlay, most recently with its … [+3048 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Filipe Espósito",
+    "title": "iOS 17.0.3 fixes security breach that had been actively exploited",
+    "description": "Apple on Wednesday released iOS 17.0.3 for iPhone users. Although the update doesn’t bring any new features, it fixes a bug that had been causing some iPhone models (especially the iPhone 15 Pro) to overheat more than usual. However, iOS 17.0.3 also comes wit…",
+    "url": "https://9to5mac.com/2023/10/04/ios-17-0-3-security-breach-exploit/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/09/apple-security-cloud.jpg.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-10-04T18:40:42Z",
+    "content": "Apple on Wednesday released iOS 17.0.3 for iPhone users. Although the update doesn’t bring any new features, it fixes a bug that had been causing some iPhone models (especially the iPhone 15 Pro) to … [+1366 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Michael Potuck",
+    "title": "What’s new with the Google iPhone 15 competitors?",
+    "description": "At the Made by Google 2023 event this morning the company officially launched its Pixel 8 and 8 Pro, Pixel Watch 2, and more. Follow along for what Google has announced with its iPhone 15 and Apple Watch Series 9 competitors including what the new hardware br…",
+    "url": "https://9to5mac.com/2023/10/04/whats-new-google-iphone-15-competitors-pixel-8/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/10/google-pixel-8-iphone-15-competitors.jpg.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-10-04T16:04:53Z",
+    "content": "At the Made by Google 2023 event this morning the company officially launched its Pixel 8 and 8 Pro, Pixel Watch 2, and more. Follow along for what Google has announced with its iPhone 15 and Apple W… [+2499 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Zac Hall",
+    "title": "These are the best CarPlay apps for iPhone",
+    "description": "CarPlay is Apple’s feature that brings communication and entertainment functions to the built-in screen in your car using iPhone apps. The feature appears on a lot of and new cars that you can buy today.\n\n\n\nAs CarPlay support is now available from most manufa…",
+    "url": "https://9to5mac.com/2023/10/04/best-carplay-apps-for-iphone/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/07/porsche-carplay.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-10-04T15:33:00Z",
+    "content": "CarPlay is Apple’s feature that brings communication and entertainment functions to the built-in screen in your car using iPhone apps. The feature appears on a lot of aftermarket displays and new car… [+1277 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Chance Miller",
+    "title": "Your iPhone will receive a test emergency alert from FEMA today, and you can’t opt out",
+    "description": "As you’ve probably heard by now, FEMA and the FCC are conducting a nationwide test of the Public Alert and Warning System in the United States today, October 4. This means that your iPhone will sound off with an emergency alert at around 2:20 p.m. ET/11:20 a.…",
+    "url": "https://9to5mac.com/2023/10/04/emergency-alert-iphone-details-opt-out/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/10/fema-iphone-alert-test.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-10-04T14:37:48Z",
+    "content": "As youve probably heard by now, FEMA and the FCC are conducting a nationwide test of the Public Alert and Warning System in the United States today, October 4. This means that your iPhone will sound … [+4521 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Police"
+    },
+    "author": "Krystle Vermes",
+    "title": "Google has officially launched Gmail for Wear OS after months of teases",
+    "description": "Tests were supposedly carried out on a Pixel Watch",
+    "url": "https://www.androidpolice.com/google-gmail-wear-os-watch-app/",
+    "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/12/gmail-2023-ap-hero.jpg",
+    "publishedAt": "2023-10-04T18:27:59Z",
+    "content": "Summary\r\n<ul><li> A dedicated Gmail app has now been made accessible on Wear OS, allowing users to manage their inbox directly on their smartwatch. </li><li> Google has been working on developing a G… [+2691 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Police"
+    },
+    "author": "Chris Wedel",
+    "title": "The Pixel 8 Pro introduces an impractical new sensor you get to pay for",
+    "description": "How many times have you wondered how hot your pan was?",
+    "url": "https://www.androidpolice.com/pixel-8-pro-impractical-new-sensor/",
+    "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2023/10/google-pixel-8-pro-hands-on-5.jpg",
+    "publishedAt": "2023-10-04T19:00:30Z",
+    "content": "Device manufacturers are constantly trying to find ways to make each new product more personal and helpful. Over the past few years, one of those trends has been to improve and add health sensors to … [+6370 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Police"
+    },
+    "author": "Rajesh Pandey",
+    "title": "The Google Pixel Watch 2 is here, fixing everything wrong in the first model",
+    "description": "No breakthrough new features, but that’s not what the Pixel Watch 2 needed anyway",
+    "url": "https://www.androidpolice.com/google-pixel-watch-2-here-fixing-every-wrong-first-model-b/",
+    "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2023/10/google-pixel-watch-2-pixel-buds-pro-bay-hands-on-4.jpg",
+    "publishedAt": "2023-10-04T14:30:31Z",
+    "content": "Summary\r\n<ul><li> The Google Pixel Watch 2 has small upgrades on the outside with a lighter aluminum body and thinner glass. </li><li> The real upgrades are internal, with a much better processor, a … [+4353 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Police"
+    },
+    "author": "Jared DiPane",
+    "title": "Garmin Epix Pro (Gen 2) review: It's worth the money",
+    "description": "The second-gen Epix Pro brings some welcomed changes",
+    "url": "https://www.androidpolice.com/garmin-epix-pro-gen-2-review/",
+    "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2023/09/garmin-epix-pro-hero-1.png",
+    "publishedAt": "2023-10-04T15:00:33Z",
+    "content": "Garmin is one of the most respected names in the fitness tracking space, and that's a reputation that the company has earned through years of creating some of the best smartwatches out there for trac… [+8715 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Police"
+    },
+    "author": "Yasir Mahmood",
+    "title": "How to clean your phone screen",
+    "description": "Discover expert tips and techniques for a spotless, germ-free phone with this comprehensive guide to phone cleaning.",
+    "url": "https://www.androidpolice.com/how-to-clean-your-phone-and-screen/",
+    "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2023/09/phone-clean-3.jpg",
+    "publishedAt": "2023-10-04T11:00:29Z",
+    "content": "Our phones have become an extension of ourselves. We take them everywhere and handle them frequently throughout the day. But they can also harbor bacteria. That's why it's crucial to keep the phone a… [+7684 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Police"
+    },
+    "author": "Manuel Vonau",
+    "title": "Android 14 review: Predictable progress",
+    "description": "Google doesn’t need to change the formula to create an enticing mobile experience",
+    "url": "https://www.androidpolice.com/android-14-review/",
+    "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/08/android-14-logo-recents-keyboard-hero.jpg",
+    "publishedAt": "2023-10-04T14:35:30Z",
+    "content": "After months and months of beta testing, Android 14 has finally arrived in stable. There was a tremendous buildup of excitement around this release after the rather lackluster Android 13, which only … [+25571 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Food52.com"
+    },
+    "author": "Food52",
+    "title": "27 Thanksgiving Groceries You Can Buy Right Now",
+    "description": "Thanksgiving is like a middle school book report: It’s not difficult, so long as you get ahead. Less demanding than a five-paragraph essay on the symbolism of A Wrinkle In Time, much of your Thanksgiving shopping can be knocked out weeks in advance with a qui…",
+    "url": "https://food52.com/blog/28314-early-thanksgiving-grocery-shopping",
+    "urlToImage": "https://images.food52.com/R23CRkNNbFcAJKELHEZc2wU4qww=/fit-in/1200x1200/2104f8a4-cc16-4c4c-a888-f036eae51dee--2021-1014_thanksgiving-tabletop-with-food_3x2_julia-gartland_118.jpg",
+    "publishedAt": "2023-10-04T19:49:31Z",
+    "content": "Thanksgiving is like a middle school book report: Its not difficult, so long as you get ahead. Less demanding than a five-paragraph essay on the symbolism of A Wrinkle In Time, much of your Thanksgiv… [+3648 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Thekitchn.com"
+    },
+    "author": "Jeanette Hurt",
+    "title": "The $5 Aldi Snack I Always Keep Stocked in My Pantry",
+    "description": "They taste just like the original.\nREAD MORE...",
+    "url": "https://www.thekitchn.com/aldi-elevation-pure-and-simple-bars-review-23582617",
+    "urlToImage": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/stock%2Faldi-storefront-vertical-crop",
+    "publishedAt": "2023-10-04T17:30:00Z",
+    "content": "We independently select these products—if you buy from one of our links, we may earn a commission. All prices were accurate at the time of publishing.\r\nIm not into skipping meals. I tend to get crabb… [+2224 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Andrew O'Hara)",
+    "title": "How to use Double Tap on Apple Watch Ultra 2 & Apple Watch Series 9 in watchOS 10.1",
+    "description": "Double Tap is a feature coming to Apple Watch Series 9 and Apple Watch Ultra in watchOS 10.1. Here's how to set it up, what you can do, and how you can customize it.Double Tap on Apple Watch Ultra 2We've been testing out Double Tap on our Apple Watch, and hav…",
+    "url": "https://appleinsider.com/inside/apple-watch-series-9/tips/how-to-use-double-tap-on-apple-watch-ultra-2-apple-watch-series-9-in-watchos-101",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/56654-115193-Double-Tap-Hero-xl.jpg",
+    "publishedAt": "2023-10-04T18:43:40Z",
+    "content": "Double Tap on Apple Watch Ultra 2\r\nDouble Tap is a feature coming to Apple Watch Series 9 and Apple Watch Ultra in watchOS 10.1. Here's how to set it up, what you can do, and how you can customize it… [+3441 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (William Gallagher)",
+    "title": "You can now add your PayPal credit card to Apple Wallet",
+    "description": "Following a gradual rollout, all Apple Wallet users can now add PayPal and Venmo credit and debit cards, and take advantage of Apple Pay.PayPal on an iPhoneIn November 2022, PayPal announced that it would be adding support for Apple Wallet and Apple Pay to it…",
+    "url": "https://appleinsider.com/articles/23/10/04/you-can-now-add-your-paypal-credit-card-to-apple-wallet",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/56270-114214-paypal-iphone-xl.jpg",
+    "publishedAt": "2023-10-04T11:24:53Z",
+    "content": "PayPal on an iPhone\r\nFollowing a gradual rollout, all Apple Wallet users can now add PayPal and Venmo credit and debit cards, and take advantage of Apple Pay.\r\nIn November 2022, PayPal announced that… [+1503 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (William Gallagher)",
+    "title": "Apple TV+ welcomes 'The Buccaneers' with first trailer",
+    "description": "The first look at Apple TV+ drama \"The Buccaneers\" brings us a US/UK culture clash in a startlingly modern 1870s setting.Christina Hendricks in The Buccaneers (Source: Apple TV+)\"Tracy Ullman Show\" and \"Where This Service Will Terminate\" writer Katherine Jake…",
+    "url": "https://appleinsider.com/articles/23/10/04/apple-tv-welcomes-the-buccaneers-with-first-trailer",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/56662-115177-000-lead-Christina-Hendricks-xl.jpg",
+    "publishedAt": "2023-10-04T16:00:34Z",
+    "content": "Christina Hendricks in The Buccaneers (Source: Apple TV+)\r\nThe first look at Apple TV+ drama \"The Buccaneers\" brings us a US/UK culture clash in a startlingly modern 1870s setting.\r\n\"Tracy Ullman Sho… [+1129 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (William Gallagher)",
+    "title": "Apple TV+ launches kids' holiday season with 'The Velveteen Rabbit'",
+    "description": "Apple TV+ has announced its family and kids lineup for the festive season, starting with \"The Velveteen Rabbit\" and including new specials.\"The Velveteen Rabbit\" (Source: Apple TV+)\"The Velveteen Rabbit\" is described as a \"heartwarming Apple Original Special,…",
+    "url": "https://appleinsider.com/articles/23/10/04/apple-tv-launches-kids-holiday-season-with-the-velveteen-rabbit",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/56651-115160-000-lead-Velveteen-Rabbit-xl.jpg",
+    "publishedAt": "2023-10-04T10:37:16Z",
+    "content": "\"The Velveteen Rabbit\" (Source: Apple TV+)\r\nApple TV+ has announced its family and kids lineup for the festive season, starting with \"The Velveteen Rabbit\" and including new specials.\r\n\"The Velveteen… [+1463 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Malcolm Owen)",
+    "title": "Apple releases iOS 17.0.3 & iPadOS 17.0.3 with overheating fixes",
+    "description": "Apple has released updates for iOS 17.0.3 and iPadOS 17.0.3, with a key feature of the releases being fixes for an iPhone 15 overheating problem.iPhone 15 ProApple's point releases of operating systems usually include bug fixes and critical security updates t…",
+    "url": "https://appleinsider.com/articles/23/10/04/apple-releases-ios-1703-ipados-1703-with-overheating-fixes",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/56613-115115-56600-115058-56493-114915-Holding-iPhone-15-Pro-xl-xl-xl.jpg",
+    "publishedAt": "2023-10-04T17:07:54Z",
+    "content": "iPhone 15 Pro\r\nApple has released updates for iOS 17.0.3 and iPadOS 17.0.3, with a key feature of the releases being fixes for an iPhone 15 overheating problem. \r\nApple's point releases of operating … [+835 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (William Gallagher)",
+    "title": "Brothers behind massive Apple counterfeiting scam are jailed",
+    "description": "Two brothers who conned Apple into replacing 10,000 counterfeits with real iPhones and iPads, have been sentenced to 41 months in federal prison.San Francisco's Apple Fashion Valley storeThe two brothers from San Diegoare Zhimin and Zhiting Liao, and a third …",
+    "url": "https://appleinsider.com/articles/23/10/04/brothers-behind-massive-apple-counterfeiting-scam-are-jailed",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/56655-115163-000-lead-SF-Store-xl.jpg",
+    "publishedAt": "2023-10-04T13:43:58Z",
+    "content": "San Francisco's Apple Fashion Valley store\r\nTwo brothers who conned Apple into replacing 10,000 counterfeits with real iPhones and iPads, have been sentenced to 41 months in federal prison.\r\nThe two … [+2010 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Jess Pingrey)",
+    "title": "Daily deals Oct. 4: $100 off iPad mini, 30% off Echo Buds, Apple Watch Series 8 for $225, more",
+    "description": "Today's top deals include a Milanese loop Apple Watch band from $37, 35% off a Kindle Paperwhite Kids, 54% off an Amazon Fire 4K TV stick, 49% off a Ring Stick Up cam, ecobee Smart thermostats from $80, and more.Save on Apple Watch Series 8 & iPad miniThe App…",
+    "url": "https://appleinsider.com/articles/23/10/04/daily-deals-oct-4-100-off-ipad-mini-30-off-echo-buds-apple-watch-series-8-for-225-more",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/56646-115161-daily-deals-oct-4-xl.jpg",
+    "publishedAt": "2023-10-04T13:37:06Z",
+    "content": "Save on Apple Watch Series 8 &amp; iPad mini\r\nToday's top deals include a Milanese loop Apple Watch band from $37, 35% off a Kindle Paperwhite Kids, 54% off an Amazon Fire 4K TV stick, 49% off a Ring… [+2832 chars]"
+    }
+    ]
+    }
